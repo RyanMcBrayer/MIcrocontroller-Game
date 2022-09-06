@@ -2,7 +2,7 @@
  * task_accel.c
  *
  *  Created on: Dec 8, 2020
- *      Author: Jimmy O
+ *      Author: Jimmy O, Ryan M
  */
 
 #include <main.h>
