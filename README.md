@@ -19,7 +19,7 @@ The peripheral devices used were the screen, joystick, push buttons, light senso
 accelerometer, and a buzzer.
 
 ## Other Info
-This project was done as a partner project for a microprocessor systems course.
+This project was done as a partner project for my microprocessor systems course.
 
 As stated above, the game was designed in C and uses FreeRTOS.
 If you wish to demo this project you will need the above mentioned boards,
