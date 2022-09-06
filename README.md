@@ -3,7 +3,7 @@ A game designed using C and FreeRTOS for the TI MSP432 Launchpad microcontroller
 
 ## Video Demo
 Use this link to see a demo of the game and its features:
-https://www.youtube.com/watch?v=h5u1UeY8t6I&t=99s 
+https://www.youtube.com/watch?v=h5u1UeY8t6I&t=99s  
 (Please ignore the later half, which is only meant for grading purposes)
 
 
