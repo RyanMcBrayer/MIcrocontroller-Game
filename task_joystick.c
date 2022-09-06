@@ -2,7 +2,7 @@
  * task_led.c
  *
  *  Created on: Nov 23, 2020
- *      Author: James O'Brien
+ *      Author: James O'Brien, Ryan McBrayer
  */
 
 #include <main.h>
