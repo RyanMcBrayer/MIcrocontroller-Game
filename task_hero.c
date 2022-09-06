@@ -2,7 +2,7 @@
  * task_hero.c
  *
  *  Created on: Dec 6, 2020
- *      Author: Jimmy O
+ *      Author: Jimmy O, Ryan M
  */
 
 #include <main.h>
