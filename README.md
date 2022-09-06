@@ -13,4 +13,7 @@ The purpose of this game was to use many different serial communication protocol
 to interface with the various peripheral devices found on the boards. The protocols
 that were used in this project were UART, SPI, and I2C. 
 
+The peripheral devices used were the screen, joystick, push buttons, light sensor,
+accelerometer
+
 As stated above, the game was designed in C and uses FreeRTOS.
