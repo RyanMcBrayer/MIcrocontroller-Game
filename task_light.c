@@ -2,7 +2,7 @@
  * opt3001.c
  *
  *  Created on: Dec 5, 2020
- *      Author: Ryan McBrayer
+ *      Author: James O'Brien, Ryan McBrayer
  */
 
 #include <main.h>
